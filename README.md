@@ -1,5 +1,5 @@
 # NextAuth-Azure-Login-Template
-This is a simple login portal using NextJS, React, Mantine UI and Next Auth. This specific configuration is set to use Azure as it's service provider but is fully customizable to a number of providers (see https://next-auth.js.org/providers/credentials). This is boilerplate code meant to make login portals quick to get up and running if I ever need them on the fly. I usually grab this and tweak it to my liking to get the ball rolling on things...
+This is a simple login portal using NextJS, React, Mantine UI and Next Auth. This specific configuration is set to use Azure as it's service provider but is fully customizable to a number of providers (see https://next-auth.js.org/providers/credentials). This is boilerplate code meant to make login portals quick to get up and running if I ever need them on the fly. I usually grab this and tweak it to my liking to get the ball rolling on my own projects ...
 
 ## Screenshots
 ![template-login-dark](https://user-images.githubusercontent.com/26133178/166849919-1373a122-425c-43d3-8fb4-f13ef45ff2e6.PNG)
